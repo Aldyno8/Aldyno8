@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Akory%20aby%20andrio%20🫡&section=header&reversal=false&fontSize=40&fontAlignY=39&rotate=0&strokeWidth=0&animation=scaleIn&fontAlign=51&textBg=false&descSize=200&fontColor=FFFFFF" alt="">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Bruel+Aldyno;Junior+developer" alt="Typing SVG" />
+ <a href="https://app.daily.dev/aldyno"><img src="https://api.daily.dev/devcards/v2/bw4W5zTqPDmjz9ywjObv5.png?type=wide&r=yyk" width="652" alt="Bruel Aldyno's Dev Card"/></a>
 </div>
-
+<p></p>
 <div align="center">
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
@@ -29,5 +31,5 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Merci%20pour%20la%20visite%20🙋‍♂️&section=footer&reversal=false&fontSize=40&fontAlignY=59&rotate=0&strokeWidth=0&animation=scaleIn&fontAlign=51&textBg=false&descSize=200&fontColor=FFFFFF" alt="bye">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Merci%20nandalo%20edaiii!%20🙋‍♂️&section=footer&reversal=false&fontSize=40&fontAlignY=59&rotate=0&strokeWidth=0&animation=scaleIn&fontAlign=51&textBg=false&descSize=200&fontColor=FFFFFF" alt="bye">
 </div>
